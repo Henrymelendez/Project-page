@@ -1,4 +1,5 @@
 ## Henry Melendez
+![Image](C:\Users\Henryomar\Downloads\Snapchat-1718751376)
 
 Hi my name is henry Melendez and i am a stat scientist interest in machine learning, and neural networks. I current work as a cost analyst and use data wrangling and data analysis 
 
