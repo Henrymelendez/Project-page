@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+## Henry Melendez
 
-You can use the [editor on GitHub](https://github.com/Henrymelendez/Project-page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi my name is henry Melendez and i am a stat scientist interest in machine learning, and neural networks. I current work as a cost analyst and use data wrangling and data analysis 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Project One
+coming soon 
 ```markdown
 Syntax highlighted code block
 
